@@ -1,0 +1,7 @@
+Configuring TestNG with: org.apache.maven.surefire.testng.conf.TestNG652Configurator@16b4a017
+SauceOnDemandSessionID=e3cb637095884739aa879f445ad48c8b job-name=verifyLinkTest
+SauceOnDemandSessionID=02f009e0c86d447992753a9ba189145c job-name=verifyLinkTest
+SauceOnDemandSessionID=93ac8323481b4ae0a5cbc7add3d62a79 job-name=verifyCommentInputTest
+Job link: https://saucelabs.com/jobs/93ac8323481b4ae0a5cbc7add3d62a79?auth=4036cfd18276d474f9696ca9cef75b54
+SauceOnDemandSessionID=c22a7c1466674f38b0f6ac752ff0a71b job-name=verifyCommentInputTest
+Job link: https://saucelabs.com/jobs/c22a7c1466674f38b0f6ac752ff0a71b?auth=c8e0534006a1e94032cd2c228e89d0a3

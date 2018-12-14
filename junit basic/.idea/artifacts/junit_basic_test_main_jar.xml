@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="junit-basic-test_main:jar">
+    <output-path>$PROJECT_DIR$/../junit-basic-test/out/artifacts/junit_basic_test_main_jar</output-path>
+    <root id="archive" name="junit-basic-test_main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

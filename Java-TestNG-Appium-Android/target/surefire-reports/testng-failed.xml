@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="20" verbose="0" name="Failed suite [Command line suite]" parallel="methods">
+  <test name="Command line test" preserve-order="false">
+    <classes>
+      <class name="com.yourcompany.Tests.TextInputTest"/>
+      <class name="com.yourcompany.Tests.FollowLinkTest"/>
+      <class name="com.yourcompany.Tests.TestBase"/>
+    </classes>
+  </test> <!-- Command line test -->
+  <test name="Command line test(failed)" parallel="methods">
+    <classes>
+      <class name="com.yourcompany.Tests.TextInputTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyCommentInputTest" invocation-numbers="1 0"/>
+        </methods>
+      </class> <!-- com.yourcompany.Tests.TextInputTest -->
+      <class name="com.yourcompany.Tests.FollowLinkTest">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.yourcompany.Tests.FollowLinkTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

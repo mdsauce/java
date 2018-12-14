@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.yourcompany.Tests.TextInputTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-19T23:03:32" hostname="Max-Dobeck-SL-0465.local" time="9.17">
+  <properties/>
+  <testcase name="verifyCommentInputTest[0](public void com.yourcompany.Tests.TextInputTest.verifyCommentInputTest(java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException)" classname="com.yourcompany.Tests.TextInputTest" time="9.17"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Nov 19, 2018 3:03:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Nov 19, 2018 3:03:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
